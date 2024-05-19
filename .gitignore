@@ -1,0 +1,4 @@
+venv/
+.idea/
+ag_news/*.csv
+multinli/*.csv
